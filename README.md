@@ -13,5 +13,5 @@ Cost-sensitive learning to address class imbalance and misclassification cost in
 
 ``` r
 # install.packages("devtools")
-devtools::install_github("KipedeneCoulibaly/CostSensitiveLearning")
+devtools::install_github("KipedeneCoulibaly/Kcsboost")
 ```
