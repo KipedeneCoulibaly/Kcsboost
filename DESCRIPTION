@@ -1,0 +1,25 @@
+Package: Kcsboost
+Type: Package
+Title: Instance-dependent cost-sensitive extreme gradient boosting
+Version: 1.0.0
+Author: Kipédène Coulibaly
+Maintainer: Kipédène Coulibaly <kipedene.coulibaly@gmail.com>
+Description: Functions to deal with class imbalance and misclassification costs in multiclass classification algorithms.
+Depends: 
+    R (>= 4.1.0)
+License: GPL (>= 2)
+LazyLoad: yes
+Encoding: UTF-8
+LazyData: true
+NeedsCompilation: yes
+Suggests: 
+    knitr,
+    rmarkdown
+VignetteBuilder: knitr
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.2.1
+Imports: hmeasure, xgboost, ggplot2
+
+
+
+
