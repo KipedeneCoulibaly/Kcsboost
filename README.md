@@ -1,5 +1,5 @@
 # Kcsboost <img src="man/figures/Logo_Kcsboost.png" align="right" width="120" />
-[![R-CMD-check](https://github.com/KipedeneCoulibaly/Kcsboost/workflows/R-CMD-check.yml/badge.svg)](https://github.com/KipedeneCoulibaly/Kcsboost/actions)
+[![R-CMD-check](https://github.com/KipedeneCoulibaly/Kcsboost/workflows/R-CMD-check/badge.svg)](https://github.com/KipedeneCoulibaly/Kcsboost/actions)
 <!--
 [![Codecov testcoverage]()]()
 [![CRAN_Status_Badge]()]()
