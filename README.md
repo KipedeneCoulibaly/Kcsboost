@@ -1,8 +1,6 @@
 # Kcsboost <img src="man/figures/Logo_Kcsboost.png" align="right" width="120" />
-<!--[![R-CMD-check]()]()
-[![Codecov testcoverage]()]()
-[![CRAN_Status_Badge]()]()
-[![Downloads]()]()-->
+[![R-CMD-check](https://github.com/KipedeneCoulibaly/Kcsboost/workflows/R-CMD-check/badge.svg)](https://github.com/KipedeneCoulibaly/Kcsboost/actions)
+
 
 ## Overview
 ### CostSensitiveLearning
